@@ -17,7 +17,7 @@ public class Zadatak1 {
 
         int sum = a + b;
 
-        double m = (sum / 2);
+        double m = (sum / 2); // sum >> 1 sam dobila isti rezultat.
 
         System.out.println("Mean = " + m);
     }
