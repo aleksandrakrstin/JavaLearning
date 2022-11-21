@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="9th commit">
-      <change afterPath="$PROJECT_DIR$/src/Inputs/Zadatak4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inputs/Zadatak3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputs/Zadatak3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inputs/Zadatak4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputs/Zadatak4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zadatak3">
+  <component name="RunManager" selected="Application.Zadatak4">
     <configuration name="Zadatak1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inputs.Zadatak1" />
       <module name="Hello" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadatak5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.Zadatak5" />
+    <configuration name="Zadatak4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inputs.Zadatak4" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variables.*" />
+          <option name="PATTERN" value="Inputs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadatak4" />
         <item itemvalue="Application.Zadatak3" />
         <item itemvalue="Application.Zadatak2" />
         <item itemvalue="Application.Zadatak1" />
         <item itemvalue="Application.Zadatak6" />
-        <item itemvalue="Application.Zadatak5" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669035204419</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="9th commit">
+      <created>1669035626283</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669035626283</updated>
+    </task>
+    <task id="LOCAL-00014" summary="9th commit">
+      <created>1669035647640</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669035647640</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
