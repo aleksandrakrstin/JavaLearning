@@ -8,6 +8,7 @@ public class Zadatak3 {
 
         System.out.println("Enter a whole number of your choice:");
         int a = scan.nextInt();
+        scan.close();
         int quote = 0;
 
         if (a > quote){
