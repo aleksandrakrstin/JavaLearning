@@ -1,4 +1,4 @@
-package Inputs;
+package IfElse;
 
 import java.util.Scanner;
 
