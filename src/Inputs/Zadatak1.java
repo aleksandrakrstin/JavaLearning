@@ -17,7 +17,7 @@ public class Zadatak1 {
 
         scan.close();
 
-        int sum = a + b;
+        double sum = a + b;
 
         double m = (sum / 2);
 

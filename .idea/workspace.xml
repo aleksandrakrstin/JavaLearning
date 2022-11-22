@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Zadatak 9. If / Else, increasing / Division by 2 and/or 3.">
+    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Zadatak 1. If / Scanner / scanner.close() added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inputs/Zadatak1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputs/Zadatak1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +37,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zadatak4">
-    <configuration name="Zadatak4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.Zadatak4" />
+  <component name="RunManager" selected="Application.Zadatak1">
+    <configuration name="Zadatak1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inputs.Zadatak1" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variables.*" />
+          <option name="PATTERN" value="Inputs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadatak6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfElse.Zadatak6" />
+    <configuration name="Zadatak4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.Zadatak4" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IfElse.*" />
+          <option name="PATTERN" value="Variables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadatak1" />
         <item itemvalue="Application.Zadatak4" />
         <item itemvalue="Application.Zadatak9" />
         <item itemvalue="Application.Zadatak8" />
         <item itemvalue="Application.Zadatak7" />
-        <item itemvalue="Application.Zadatak6" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669107204199</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Zadatak 1. If / Scanner / scanner.close() added.">
+      <created>1669108159006</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1669108159006</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Zadatak 1. If / Scanner / scanner.close() added.">
+      <created>1669108477395</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669108477395</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +319,7 @@
     <MESSAGE value="13th commit" />
     <MESSAGE value="Zadatak 8. If / Else, increasing / decreasing order." />
     <MESSAGE value="Zadatak 9. If / Else, increasing / Division by 2 and/or 3." />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadatak 9. If / Else, increasing / Division by 2 and/or 3." />
+    <MESSAGE value="Zadatak 1. If / Scanner / scanner.close() added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadatak 1. If / Scanner / scanner.close() added." />
   </component>
 </project>
