@@ -14,6 +14,7 @@ public class Zadatak1 {
         System.out.println("Enter another number");
 
         int b = scan.nextInt();
+        scan.close();
 
         int sum = a + b;
 
