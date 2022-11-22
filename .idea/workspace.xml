@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="12th commit">
-      <change afterPath="$PROJECT_DIR$/src/IfElse/Zadatak8.java" afterDir="false" />
+    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="13th commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -248,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669045918250</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="13th commit">
+      <created>1669048219952</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669048219952</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +280,7 @@
     <MESSAGE value="10th commit" />
     <MESSAGE value="11th commit" />
     <MESSAGE value="12th commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th commit" />
+    <MESSAGE value="13th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="13th commit" />
   </component>
 </project>
