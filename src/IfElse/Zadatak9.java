@@ -16,7 +16,6 @@ public class Zadatak9 {
         if (x % quote1 == 0) {
             System.out.println("Number can be divided by 2.");
         }
-
         if (x % quote2 == 0) {
             System.out.println("Number can be divided by 3.");
         }
