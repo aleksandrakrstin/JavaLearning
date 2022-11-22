@@ -16,14 +16,16 @@ public class Zadatak9 {
         if (x % quote1 == 0) {
             System.out.println("Number can be divided by 2.");
         }
-        else if (x % quote2 == 0) {
+
+        if (x % quote2 == 0) {
             System.out.println("Number can be divided by 3.");
         }
-        else if (x % quote1 == 0 && x % quote2 == 0) {
+        if (x % quote1 == 0 && x % quote2 == 0) {
             System.out.println("Number can be divided by 2 and by 3 as well.");
         }
         else if (x % quote1 != 0 && x % quote2 != 0) {
             System.out.println("Number cannot be divided neither by 2 nor 3.");
         }
+
     }
 }
