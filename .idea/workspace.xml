@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Zadatak 1. Switch">
-      <change afterPath="$PROJECT_DIR$/src/Switch/Zadatak2.java" afterDir="false" />
+    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Zadatak 1. Switch - TO DO list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -304,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669132039322</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Zadatak 1. Switch - TO DO list">
+      <created>1669195910432</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1669195910432</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,6 +343,7 @@
     <MESSAGE value="Zadatak 1. If / Scanner / scanner.close() added. int sum converted to double." />
     <MESSAGE value="Zadatak 1. If / Scanner / scanner.close() added. int sum changed to double." />
     <MESSAGE value="Zadatak 1. Switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadatak 1. Switch" />
+    <MESSAGE value="Zadatak 1. Switch - TO DO list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadatak 1. Switch - TO DO list" />
   </component>
 </project>
