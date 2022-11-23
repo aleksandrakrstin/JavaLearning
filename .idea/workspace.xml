@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Zadatak 1. Switch - TO DO list">
+      <change afterPath="$PROJECT_DIR$/src/Aritmethical_operators/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zadatak2">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="IfElse.Zadatak4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IfElse.Zadatak4" />
       <module name="Hello" />
@@ -56,6 +57,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Switch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aritmethical_operators.Task1" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aritmethical_operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadatak4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.Zadatak4" />
-      <module name="Hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Variables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Zadatak2" />
         <item itemvalue="Application.Switch.Zadatak1" />
         <item itemvalue="Application.IfElse.Zadatak4" />
         <item itemvalue="Application.Zadatak1" />
-        <item itemvalue="Application.Zadatak4" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669195910432</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Zadatak 1. Switch - TO DO list">
+      <created>1669213706065</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669213706065</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
