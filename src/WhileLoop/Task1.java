@@ -10,10 +10,10 @@ public class Task1 {
         int sum = 0;
 
         while(true) {
-
             System.out.println("Enter a number: ");
             int num = scan.nextInt();
             sum += num;
+
             System.out.println("The sum is: "+sum);
 
             if (num <= 0) {
