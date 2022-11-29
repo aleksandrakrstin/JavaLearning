@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Zadatak1 {
     public static void main(String[] args) {
 
-        System.out.println("Enter a number from 1 to 7:");
+
 
         Scanner scan = new Scanner(System.in);
         int day = scan.nextInt();
