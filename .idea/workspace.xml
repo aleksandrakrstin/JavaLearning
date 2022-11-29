@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Task 1. While Loop.">
-      <change afterPath="$PROJECT_DIR$/src/Do_While_Loop/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_Loop/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_Loop/Task2.java" afterDir="false" />
+    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Task 1. Task 2. For Loop. Print numbers 1-10. Print every fifth number between 0 and 100.">
+      <change afterPath="$PROJECT_DIR$/src/For_each_Loop/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoop/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhileLoop/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.For_Loop.Task2">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="Do_While_Loop.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Do_While_Loop.Task1" />
       <module name="Hello" />
@@ -107,9 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.For_Loop.Task2" />
         <item itemvalue="Application.For_Loop.Task1" />
-        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Do_While_Loop.Task1" />
         <item itemvalue="Application.WhileLoop.Task1" />
       </list>
@@ -355,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669725590577</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Task 1. Task 2. For Loop. Print numbers 1-10. Print every fifth number between 0 and 100.">
+      <created>1669735311230</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1669735311230</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,6 +398,7 @@
     <MESSAGE value="Task 1. Arrays." />
     <MESSAGE value="Task 2. Arrays." />
     <MESSAGE value="Task 1. While Loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1. While Loop." />
+    <MESSAGE value="Task 1. Task 2. For Loop. Print numbers 1-10. Print every fifth number between 0 and 100." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1. Task 2. For Loop. Print numbers 1-10. Print every fifth number between 0 and 100." />
   </component>
 </project>
