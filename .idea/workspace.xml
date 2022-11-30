@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Task 1. Task 2. For Loop. Print numbers 1-10. Print every fifth number between 0 and 100.">
-      <change afterPath="$PROJECT_DIR$/src/For_each_Loop/Task1.java" afterDir="false" />
+    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Task 1. Create a calculator with following operation: addition, subtraction, multiplication, division, modulus, exponentiation and floor division. Creating a method for each operation.">
+      <change afterPath="$PROJECT_DIR$/src/Functions/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Halting_Condition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,29 +35,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="Do_While_Loop.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Do_While_Loop.Task1" />
+  <component name="RunManager" selected="Application.Functions.Task1">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Ex1" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Do_While_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="For_Loop.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_Loop.Task1" />
-      <module name="Hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="For_Loop.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,6 +65,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Functions.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.Task1" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Halting_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Halting_Condition" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_each_Loop.Task1" />
       <module name="Hello" />
@@ -89,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop.Task1" />
-      <module name="Hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WhileLoop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Functions.Task1" />
+        <item itemvalue="Application.Halting_Condition" />
+        <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.For_Loop.Task2" />
-        <item itemvalue="Application.For_Loop.Task1" />
-        <item itemvalue="Application.Do_While_Loop.Task1" />
-        <item itemvalue="Application.WhileLoop.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669735311230</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Task 1. For each Loop. Print numbers from the array that can be divided by 2.">
+      <created>1669736300509</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1669736300509</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,8 +383,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="second commit" />
-    <MESSAGE value="third commit" />
     <MESSAGE value="4th commit" />
     <MESSAGE value="5th commit" />
     <MESSAGE value="6th commit" />
@@ -399,6 +406,8 @@
     <MESSAGE value="Task 2. Arrays." />
     <MESSAGE value="Task 1. While Loop." />
     <MESSAGE value="Task 1. Task 2. For Loop. Print numbers 1-10. Print every fifth number between 0 and 100." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1. Task 2. For Loop. Print numbers 1-10. Print every fifth number between 0 and 100." />
+    <MESSAGE value="Task 1. For each Loop. Print numbers from the array that can be divided by 2." />
+    <MESSAGE value="Task 1. Create a calculator with following operation: addition, subtraction, multiplication, division, modulus, exponentiation and floor division. Creating a method for each operation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1. Create a calculator with following operation: addition, subtraction, multiplication, division, modulus, exponentiation and floor division. Creating a method for each operation." />
   </component>
 </project>
