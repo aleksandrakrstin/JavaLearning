@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Zadatak 3. Add numbers until user enters a 0 using a Loop.">
+    <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Zadatak 4. Currency calculator with calling a function.">
       <change afterPath="$PROJECT_DIR$/src/Recursion/Halting_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/Zadatak51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTest/Zadatak4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTest/Zadatak4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTest/Zadatak5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTest/Zadatak5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +38,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zadatak4">
-    <configuration name="Functions.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Task1" />
+  <component name="RunManager" selected="Application.Zadatak51">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_Loop.Task1" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,38 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadatak1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.Zadatak1" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_Loop.Task2" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadatak2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.Zadatak2" />
-      <module name="Hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadatak3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.Zadatak3" />
-      <module name="Hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaTest.*" />
+          <option name="PATTERN" value="For_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,13 +78,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadatak5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.Zadatak5" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.Zadatak51" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadatak51" />
+        <item itemvalue="Application.Zadatak5" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Zadatak4" />
-        <item itemvalue="Application.Zadatak3" />
-        <item itemvalue="Application.Zadatak2" />
-        <item itemvalue="Application.Zadatak1" />
-        <item itemvalue="Application.Functions.Task1" />
+        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670404303448</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Zadatak 4. Currency calculator with calling a function.">
+      <created>1670512778066</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1670512778066</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6th commit" />
     <MESSAGE value="7th commit" />
     <MESSAGE value="8th commit" />
     <MESSAGE value="9th commit" />
@@ -428,6 +435,7 @@
     <MESSAGE value="Task 1. Create a calculator with following operation: addition, subtraction, multiplication, division, modulus, exponentiation and floor division. Creating a method for each operation." />
     <MESSAGE value="Task 1. Program that calculates gas consumption for various vehicles." />
     <MESSAGE value="Zadatak 3. Add numbers until user enters a 0 using a Loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadatak 3. Add numbers until user enters a 0 using a Loop." />
+    <MESSAGE value="Zadatak 4. Currency calculator with calling a function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadatak 4. Currency calculator with calling a function." />
   </component>
 </project>
