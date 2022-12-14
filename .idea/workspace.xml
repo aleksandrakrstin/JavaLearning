@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="367dd9d6-11e3-44a7-96a0-0a629cd92e83" name="Changes" comment="Zadatak 5. Function. Counting occurences in integer array.">
       <change afterPath="$PROJECT_DIR$/src/Recursion/Halting_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/BonusZadatak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTest/Zadatak1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTest/Zadatak1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTest/Zadatak2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTest/Zadatak2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTest/Zadatak5.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +40,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zadatak51">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_Loop.Task1" />
+  <component name="RunManager" selected="Application.BonusZadatak">
+    <configuration name="BonusZadatak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.BonusZadatak" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="For_Loop.*" />
+          <option name="PATTERN" value="javaTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +54,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_Loop.Task2" />
+    <configuration name="Zadatak2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.Zadatak2" />
       <module name="Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="For_Loop.*" />
+          <option name="PATTERN" value="javaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.Zadatak3" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadatak5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.Zadatak5" />
-      <module name="Hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadatak51" />
-        <item itemvalue="Application.Zadatak5" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.BonusZadatak" />
+        <item itemvalue="Application.Zadatak2" />
+        <item itemvalue="Application.Zadatak3" />
         <item itemvalue="Application.Zadatak4" />
-        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Zadatak51" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670937231365</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Zadatak 5. Function. Counting occurences in integer array.">
+      <created>1671007498125</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1671007498125</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

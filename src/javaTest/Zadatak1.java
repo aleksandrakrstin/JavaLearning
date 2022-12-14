@@ -13,10 +13,5 @@ public class Zadatak1 {
       }
     }
     System.out.println(arrayMinimum);
-
-
-
-
-
   }
 }

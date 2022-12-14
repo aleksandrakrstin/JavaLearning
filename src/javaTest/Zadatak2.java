@@ -21,6 +21,7 @@ public class Zadatak2 {
         double motoConsumption;
         motoConsumption = (distance * motorQuote);
         System.out.println("The consumption of a motorcycle for " + distance + " km is " + motoConsumption + "l");
+        break;
       }
       else if (vehicle.equals("car")) {
         double carConsumption;
@@ -44,8 +45,6 @@ public class Zadatak2 {
         System.out.println("You entered a wrong vehicle type. Please try again.");
       }
     }
-
-
   }
 }
 
