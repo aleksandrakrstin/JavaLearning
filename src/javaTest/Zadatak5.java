@@ -11,7 +11,10 @@ public class Zadatak5 {
     Scanner scan = new Scanner(System.in);
     int numInput = scan.nextInt();
     scan.close();
+    minValue(arr,numInput);
+  }
 
+  public static int minValue(int[] arr, int numInput) {
     int count = 0;
     for (int i = 0; i < arr.length; i++) { //enhanced for loop instead??
       if (arr[i] == numInput) {
@@ -23,5 +26,6 @@ public class Zadatak5 {
     } else {
       System.out.print("The entered number is not found in the array.");
     }
+    return count;
   }
 }
